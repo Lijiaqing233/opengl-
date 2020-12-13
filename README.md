@@ -10,3 +10,5 @@
 最終的にはコードを使い、ポリゴンを回転したりすることができます。マウスとキーボードを使えば、視野はFPSゲームみたいに移動できます。
 
 ![tupian](https://github.com/Lijiaqing233/opengl-/blob/main/guangyuan.gif)
+
+fuck you
