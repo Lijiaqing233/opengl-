@@ -11,4 +11,4 @@
 
 ![tupian](https://github.com/Lijiaqing233/opengl-/blob/main/guangyuan.gif)
 
-fuck you
+cao
