@@ -11,9 +11,4 @@
 
 ![tupian](https://github.com/Lijiaqing233/opengl-/blob/main/guangyuan.gif)
 
-cao
 
-
-更新本地仓库test
-
-本地仓库上传github
