@@ -1,5 +1,5 @@
 # Phongの反射モデル
-具体的な説明はスライドに書いています。
+具体的な説明はスライドに書いています。https://github.com/Lijiaqing233/opengl-/blob/main/opengl.ppt
 
 1.VAO,VBOよりデータをCPU側からGPU側に転送し、描画します。
 
