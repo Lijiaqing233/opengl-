@@ -4,6 +4,7 @@ add library
 opengl32.lib
 glfw3.lib
 glew32s.lib
+
 PATH:
 D:\OPENGL\glfw-3.3.2.bin.WIN32\glfw-3.3.2.bin.WIN32\include
 D:\OPENGL\glew-2.1.0-win32\glew-2.1.0\include
@@ -11,9 +12,6 @@ D:\OPENGL\glew-2.1.0-win32\glew-2.1.0\include
 D:\OPENGL\glfw-3.3.2.bin.WIN32\glfw-3.3.2.bin.WIN32\lib-vc2019
 D:\OPENGL\glew-2.1.0-win32\glew-2.1.0\lib\Release\Win32
 
-opengl32.lib
-glfw3.lib
-glew32s.lib
 
 
 
