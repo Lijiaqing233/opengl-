@@ -1,7 +1,7 @@
 # Phongの反射モデル
 
-add library
-opengl32.lib
+library
+:opengl32.lib
 glfw3.lib
 glew32s.lib
 
